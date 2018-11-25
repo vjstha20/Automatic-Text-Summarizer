@@ -4,6 +4,8 @@ A user-friendly web app with responsive design.
 It was built as a final year project for college.
 Key Persons: 
 Vijay Shrestha(CSIT):- Front End/Summarizing Algorithm(Word Frequency)
+Vijay's Repo: https://github.com/vjstha20
+
 Sudip Basnet(CSIT):- Backend(Database)
 
 ## Features:
