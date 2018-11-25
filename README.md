@@ -2,6 +2,9 @@
 
 A user-friendly web app with responsive design.
 It was built as a final year project for college.
+Key Persons: 
+Vijay Shrestha(CSIT):- Front End/Summarizing Algorithm(Word Frequency)
+Sudip Basnet(CSIT):- Backend(Database)
 
 ## Features:
 - Summarize both English and Nepali text.
